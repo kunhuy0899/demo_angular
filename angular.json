@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ap-thoi-tiet"
+    }
+  },
+  "defaultProject": "ap-thoi-tiet",
+  "cli": {
+    "analytics": "02545188-ddcf-427f-be69-afe5afbe8def"
+  }
 }
